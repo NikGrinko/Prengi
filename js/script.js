@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(document).ready(function a() {
     $('.section-contacts__burger').click(function (event) {
         $('.section-contacts__wrapper-adaptability').toggleClass('active');
 
