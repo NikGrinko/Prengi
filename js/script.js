@@ -15,8 +15,8 @@ $(document).ready(function () {
         speed: 500,
         slidesToShow: 1,
         adaptiveHeight: true,
-        prevArrow: '<button type="button" class="slick-prev"><img src="../img/section-presentation/Rounded_Rectangle_7_copy_3.png"></img></button>',
-        nextArrow: '<button type="button" class="slick-next"><img src="../img/section-presentation/Rounded_Rectangle_7_copy.png"></img></button>',
+        prevArrow: '<button type="button" class="slick-prev"><img src="img/section-presentation/Rounded_Rectangle_7_copy_3.png"></img></button>',
+        nextArrow: '<button type="button" class="slick-next"><img src="img/section-presentation/Rounded_Rectangle_7_copy.png"></img></button>',
         responsive: [
             {
                 breakpoint: 768,
